@@ -24,9 +24,9 @@ filter on the data in data.js.   I made this mistake where they didn't match and
 Arrow function was used to loop through the filterChgList dictionary and would apply the filter to the filteredTable until all key/value pairs 
 in the filterChgList dictionary were applied.
 
-[Data Must Match ElementID](https://github.com/gaudiom4git/UFOs/resources/datamatchelement.png).
+[Data Must Match Element ID](https://github.com/gaudiom4git/UFOs/blob/main/resources/datamatchelement.png)
 
-[Filters In Action](https://github.com/gaudiom4git/UFOs/resources/FilterInAction.png).
+[Filters In Action](https://github.com/gaudiom4git/UFOs/blob/main/resources/FilterInAction.png)
 
 
 ## Summary
